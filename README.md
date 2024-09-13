@@ -20,6 +20,6 @@ Welcome to my portfolio! Here I present summary and projects for ease exploratio
 
 | Project Link | Area of Analysis | Project Description | Libraries |
 | ------------ | ---------------- | ------------------- |-------- |
-| [Used Car Price Models](https://github.com/KarenSaraiMoralesMontiel/used_car_price_prediction_machine_learning)| | | matplotlib.pyplot, sklearn, pandas, scipy.stats |
-| [Black Jack Monte Carlo Simulation](https://github.com/KarenSaraiMoralesMontiel/blackjack-montecarlo-app)| | | streamlit, pandas, matplotlib.pyplot, pyecharts |
-| [Proyecto Seguro](https://github.com/KarenSaraiMoralesMontiel/Proyecto-Seguro)| | | streamlit, matplotlib.pyplot, pandas, pyecharts, echarts, scikit-learn, matplotlib_venn |
+| [Used Car Price Models](https://github.com/KarenSaraiMoralesMontiel/used_car_price_prediction_machine_learning)| Data Wrangling , EDA , Machine Learning | | matplotlib.pyplot, sklearn, pandas, scipy.stats |
+| [Black Jack Monte Carlo Simulation](https://github.com/KarenSaraiMoralesMontiel/blackjack-montecarlo-app)| Data Wrangling , EDA , Simple Monte Carlo Simulation| | streamlit, pandas, matplotlib.pyplot, pyecharts |
+| [Proyecto Seguro](https://github.com/KarenSaraiMoralesMontiel/Proyecto-Seguro)| Data Wrangling , EDA , Machine Learning | | streamlit, matplotlib.pyplot, pandas, pyecharts, echarts, scikit-learn, matplotlib_venn |
