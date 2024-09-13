@@ -4,8 +4,8 @@ Welcome to my portfolio! Here I present summary and projects for ease exploratio
 
 ## Table of Contents
 
-- (SQL) [#SQL]
-- (Python) [#Python]
+- [SQL](#SQL)
+- [Python](#Python)
 
 
 # SQL
@@ -18,8 +18,8 @@ Welcome to my portfolio! Here I present summary and projects for ease exploratio
 
 # Python
 
-| Project Link | Area of Analysis | Project Description | Version | Status |
-| ------------ | ---------------- | ------------------- |-------- |------- |
-| [Used Car Price Models](https://github.com/KarenSaraiMoralesMontiel/used_car_price_prediction_machine_learning)| | | | |
-| [Black Jack Monte Carlo Simulation](https://github.com/KarenSaraiMoralesMontiel/blackjack-montecarlo-app)| | | | |
-| [Proyecto Seguro](https://github.com/KarenSaraiMoralesMontiel/Proyecto-Seguro)| | | | |
+| Project Link | Area of Analysis | Project Description | Libraries |
+| ------------ | ---------------- | ------------------- |-------- |
+| [Used Car Price Models](https://github.com/KarenSaraiMoralesMontiel/used_car_price_prediction_machine_learning)| | | matplotlib.pyplot, sklearn, pandas, scipy.stats |
+| [Black Jack Monte Carlo Simulation](https://github.com/KarenSaraiMoralesMontiel/blackjack-montecarlo-app)| | | streamlit, pandas, matplotlib.pyplot, pyecharts |
+| [Proyecto Seguro](https://github.com/KarenSaraiMoralesMontiel/Proyecto-Seguro)| | | streamlit, matplotlib.pyplot, pandas, pyecharts, echarts, scikit-learn, matplotlib_venn |
